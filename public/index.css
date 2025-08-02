@@ -1,0 +1,15 @@
+body {
+    margin: 24px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth !important;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(assets/Roboto-Regular.ttf);
+}
+
+.roboto-med {
+    font-family: roboto !important;
+}
